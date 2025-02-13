@@ -5,9 +5,9 @@
   <a href="https://linkedin.com/in/ilhamismail95" style="background-color:white;">
     <img height="30" src="https://www.pngrepo.com/png/157006/180/linkedin.png"/>
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/@the_alghuroba" style="background-color:white;">
+<!--   <a href="https://instagram.com/@the_alghuroba" style="background-color:white;">
     <img height="30" src="https://www.pngrepo.com/png/111199/180/instagram.png"/>
-  </a>
+  </a> -->
 </p>
 
 <h2 align="center">Hello there! I'm studying to be a QA Engineer. 👋🤓</h2>
