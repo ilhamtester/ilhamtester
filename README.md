@@ -14,9 +14,11 @@
 <p align="center">Currently learning with:</p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-Mocha-8D6748?logo=mocha&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Mocha-8D6748?logo=mocha&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-JMeter-D22128?logo=apache-jmeter&logoColor=white" height="30"/>
 </p>
 
 **Talking about Personal Stuffs:**
@@ -29,9 +31,9 @@
 **Languages and Tools:**  
 
 <p align="center">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" height="30"/>
-<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" height="30"/>
 </p>
 
 ![ilhamtester GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilhamtester&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
