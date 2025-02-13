@@ -1,7 +1,13 @@
 <p align='center'>
-<a href="https://testautomationu.applitools.com/me.html#ilham-ismail" style="background-color:white;"><img height="30" src="https://www.applitools.com/icons/icon-96x96.png"/></a>
-<a href="https://linkedin.com/in/ilhamismail95" style="background-color:white;"><img height="30" src="https://www.pngrepo.com/png/157006/180/linkedin.png"/></a>&nbsp;&nbsp;
-<a href="https://instagram.com/@the_alghuroba" style="background-color:white;"><img height="30" src="https://www.pngrepo.com/png/111199/180/instagram.png"/></a>
+  <a href="https://testautomationu.applitools.com/me.html#ilham-ismail" style="background-color:white;">
+    <img height="30" src="https://testautomationu.applitools.com/assets/images/logos/tau-logo.png"/>
+  </a>
+  <a href="https://linkedin.com/in/ilhamismail95" style="background-color:white;">
+    <img height="30" src="https://www.pngrepo.com/png/157006/180/linkedin.png"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/@the_alghuroba" style="background-color:white;">
+    <img height="30" src="https://www.pngrepo.com/png/111199/180/instagram.png"/>
+  </a>
 </p>
 
 <h2 align="center">Hello there! I'm studying to be a QA Engineer. 👋🤓</h2>
