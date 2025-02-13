@@ -1,6 +1,6 @@
 <p align='center'>
   <a href="https://testautomationu.applitools.com/me.html#ilham-ismail" style="background-color:white;">
-    <img height="30" src=\"C:\Users\ilham\Downloads\my-logo.png"/>
+    <img height="30" src=/"C:\Users\ilham\Downloads\my-logo.png"/>
   </a>
   <a href="https://linkedin.com/in/ilhamismail95" style="background-color:white;">
     <img height="30" src="https://www.pngrepo.com/png/157006/180/linkedin.png"/>
